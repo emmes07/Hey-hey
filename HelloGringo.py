@@ -1,0 +1,5 @@
+print("Hello Dear Gringo. Now you have to answer the following questions in order to receive a kiss")
+Middle_Name= input("What is my middle name?\n")
+City_Born= input("What is the name of the city where I was born?\n")
+print("Your answers are: " + Middle_Name + " and " + City_Born)
+print("Correct answers: Antonio and David")
